@@ -1,0 +1,21 @@
+{
+  "name": "js-learn",
+  "version": "1.0.0",
+  "description": "A code repo for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakshamxcode08/JS-learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sakshamxcode08/JS-learn/issues"
+  },
+  "homepage": "https://github.com/sakshamxcode08/JS-learn#readme"
+}
